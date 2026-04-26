@@ -2,29 +2,34 @@
 
 This repository contains simple Jupyter notebooks to test and use different LLM providers with API keys. It is useful for learning, experimenting, and building GenAI projects.
 
+
 ## Platforms
 
 * Groq
   Link: https://console.groq.com/home
-  Notebook: ./groq_Api_keys.ipynb
+  Notebook:
+  [groq_Api_keys.ipynb](./groq_Api_keys.ipynb)
 
 * NVIDIA Models
   Link: https://build.nvidia.com/models
   Notebooks:
-  ./nvidia_Pen_mdels.ipynb
-  ./nvidia_super_10b.ipynb
+  [nvidia_Pen_mdels.ipynb](./nvidia_Pen_mdels.ipynb)
+  [nvidia_super_10b.ipynb](./nvidia_super_10b.ipynb)
 
 * GitHub Models
   Link: https://github.com/marketplace?type=models
-  Notebook: ./github_models.ipynb
+  Notebook:
+  [github_models.ipynb](./github_models.ipynb)
 
 * Tavily
   Link: https://app.tavily.com/home
-  Notebook: ./tavily_api-key.ipynb
+  Notebook:
+  [tavily_api-key.ipynb](./tavily_api-key.ipynb)
 
 * OpenRouter
   Link: https://openrouter.ai/
-  Notebook: ./open_router.ipynb
+  Notebook:
+  [open_router.ipynb](./open_router.ipynb)
 
 * Ollama
   Link: https://ollama.com/
